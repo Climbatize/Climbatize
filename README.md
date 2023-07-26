@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Clim's GitHub stats](https://github-readme-stats.vercel.app/api?username=climbatize&hide=stars&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=climbatize&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Clim's GitHub stats](https://github-readme-stats.vercel.app/api?username=climbatize&hide=stars&show_icons=true&theme=nightowl&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=climbatize&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
